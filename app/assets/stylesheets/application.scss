@@ -222,5 +222,20 @@ body {
   padding: 20px; 
 }
 
+.app-card-container {
+  color: black;
+  text-align: left;
 
+}
 
+.app-card-container > .card {
+  padding: 40px;
+}
+
+.profile-image {
+  border: 1px solid grey;
+}
+
+.app-card-container a {
+  color: blue;
+}
